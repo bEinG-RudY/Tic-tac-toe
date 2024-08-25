@@ -21,3 +21,5 @@ Reset: While the code provided does not include a reset button, it could easily 
 Visual Design:
 
 The game has a sleek, modern design with a dark gray background and white text, giving it a clean, professional look. The tiles are large and bold, ensuring that the game is easily visible and playable on any screen size.
+
+["Game image"]("images/tictactoe.png")
