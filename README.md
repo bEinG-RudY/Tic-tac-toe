@@ -1,4 +1,4 @@
-# Tic Tac Toe (Java)
+# Tic Tac Toe
 
 Game Description: Tic-Tac-Toe in Java
 Overview: This Tic-Tac-Toe game is a graphical implementation of the classic two-player game, developed in Java using Swing for the GUI. The game is played on a 3x3 grid, and players take turns marking a square with their respective symbols, "X" or "O". The objective is to be the first to get three of your symbols in a row, either horizontally, vertically, or diagonally. The game is designed to be visually engaging and straightforward to play, with an intuitive interface and clear indications of the game's progress and results.
